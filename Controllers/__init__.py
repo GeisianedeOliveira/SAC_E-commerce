@@ -1,0 +1,1 @@
+'''Executa as regras do negócio e retorna a cama da apresentação'''
